@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Monteserrat", sans-serif;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+   
+    border-top: 5px solid #6f6f6f;
+    background-color:#4a5463;
+    padding: 30px 100px;
+}
+nav .pres p{ 
+    font-family: tahoma;
+    text-align: left;
+    border: 5px;
+    color: #fff;
+ }
+ nav  h3 {
+     color: red; 
+     font-family: tahoma;
+     text-align: left;
+     border: 5px;
+     
+  }
+nav .onglets a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 5px;
+}
+nav .onglets{
+    margin-top: 3px;
+    margin-left: 750px;
+}
+header {
+    background-color: #333366;
+    color: #fff;
+    text-align: center;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#container{
+    color: #000;
+    text-align: center;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#container #ecol img{
+    height:200px;
+     width:250px;
+     border-radius: 15px;
+     margin-top: 5px;
+     
+}
+
+
+footer{
+    margin-top: 40px;
+    border-top: 5px solid #6f6f6f;
+    background-color:#4a5463;
+    color: #fff;
+    padding: 30px 100px;
+}
+footer h1{
+    font-family: 'Playfair Display', sans-serif;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 5px;
+
+}
+
+footer .reseau_so{
+    color: black;
+    display: inline-block;
+    
+}
+footer #contact #contact{
+    color: rgb(181, 181, 181);
+    border-bottom: 55px;
+}
