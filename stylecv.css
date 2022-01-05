@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Monteserrat", sans-serif;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+    
+}
+#nom{
+    background-color: #f4b083;
+}
+#titre{
+    color: blueviolet;
+    padding-left: 20%;
+    
+}
+#tabl{
+    background-color: floralwhite;
+}
+#down{
+    text-align: right;
+    padding-left: 30%;
+    }
+  
